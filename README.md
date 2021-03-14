@@ -27,4 +27,4 @@ git add.
 
 git commit - m "hint of the new folder name"
 
-git push origin maste
+git push origin master
