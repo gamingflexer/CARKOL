@@ -1,1 +1,1 @@
-{"version":3,"sources":["webpack:///./main.scss"],"names":[],"mappings":"AAAA,KACI,aAAiB,C","file":"main.css","sourcesContent":["body {\r\n    color: blueviolet;\r\n}"],"sourceRoot":""}
+{"version":3,"sources":["webpack:///./main.scss"],"names":[],"mappings":"AAAA,KACI,qBAAuB,C","file":"main.css","sourcesContent":["body {\r\n    background-color: white;\r\n}"],"sourceRoot":""}
