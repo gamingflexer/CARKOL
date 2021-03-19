@@ -1,30 +1,42 @@
 # CARKOL
 Flutter project
 
-INSTALLATION 
+INSTALLATION ✔
 
 INSTALL GIT BASH
+
 make a folder in your desired location and open the git bash from there
 
-Add command -
-
-git clone https://github.com/omsurve/CARKOL
-
-And clone the folder
-
-Cd to enter in the folder
+❌GIT COMMANDS❌
 
 ⬇️To upload new project data and updates
+
+⭕TO CLONE AND DOWNLOAD
+
+git clone https://github.com/omsurve/CARKOL.git
+
+⭕TO UPLOAD THE REPO DURING WORKING
+
+🛑FOR MAJOR UPDATES MAKE VERSION FOLDERS SO WE CAN REVERT BACK IF NEEDED
 
 
 Command in the bash in the folder cloned
 
 -
 
-git status
+git status (SHOWS IF THERE IS A CHANGE IN THE CODE)
 
 git add.
 
-git commit - m "hint of the new folder name"
+git commit - m "hint of the new folder name"  (UPLAOD THE CHANGES)
 
-git push origin master
+git status (TO RECHECK IF YOUR CODE AND THE UPLOADED CODE IS SIMILAR)
+
+git remote add origin https://github.com/omsurve/CARKOL.git
+git remote -v
+git push -u origin master
+
+
+❌ IMPORTANT LINKS ❌
+
+packages - https://pub.dev/
