@@ -25,7 +25,7 @@
       "id": "Nahim Ahmadi"
     },
     {
-      "id": "Brave Companions"
+      "id": "@SalimZirak"
     },
     {
       "id": "Naim Omar"
@@ -34,43 +34,43 @@
       "id": "Mallister"
     },
     {
-      "id": "Free folk"
+      "id": "Mahdi Parsa"
     },
     {
-      "id": "Night's Watch"
+      "id": "lutfi khan"
     },
     {
-      "id": "Tyrell"
+      "id": "@mym_yama"
     },
     {
-      "id": "Tonaldo"
+      "id": "Aminullah Ahmadi"
     },
     {
       "id": "@FahimRomal"
     }
   ],
   "edges": [
-    { "from": "Lannister", "to": "Tully" },
-    { "from": "Lannister", "to": "Baratheon" },
-    { "from": "Stark", "to": "Lannister" },
-    { "from": "Lannister", "to": "Darry" },
-    { "from": "Greyjoy", "to": "Stark" },
-    { "from": "Stark", "to": "Greyjoy" },
-    { "from": "Bolton", "to": "Stark" },
-    { "from": "Baratheon", "to": "Lannister" },
-    { "from": "Darry", "to": "Lannister" },
-    { "from": "Brotherhood without Banners", "to": "Brave Companions" },
-    { "from": "Lannister", "to": "Stark" },
-    { "from": "Lannister", "to": "Brave Companions" },
-    { "from": "Frey", "to": "Stark" },
-    { "from": "Frey", "to": "Mallister" },
-    { "from": "Free folk", "to": "Night's Watch" },
-    { "from": "Free folk", "to": "Baratheon" },
-    { "from": "Bolton", "to": "Greyjoy" },
-    { "from": "Baratheon", "to": "Greyjoy" },
-    { "from": "Greyjoy", "to": "Tyrell" },
-    { "from": "Bracken", "to": "Blackwood" },
-    { "from": "Baratheon", "to": "Bolton" },
-    { "from": "Baratheon", "to": "Frey" }
+    { "from": "@TalibanSoldiers", "to": "@mym_yama" },
+    { "from": "@TalibanSoldiers", "to": "@badri313_army" },
+    { "from": "Mallister", "to": "@TalibanSoldiers" },
+    { "from": "@TalibanSoldiers", "to": "@SalimZirak" },
+    { "from": "Taher Ahmadi", "to": "Mallister" },
+    { "from": "Mallister", "to": "Taher Ahmadi" },
+    { "from": "Aminullah Ahmadi", "to": "Mallister" },
+    { "from": "@badri313_army", "to": "@TalibanSoldiers" },
+    { "from": "@SalimZirak", "to": "@TalibanSoldiers" },
+    { "from": "Naim Omar", "to": "Brave Companions" },
+    { "from": "@TalibanSoldiers", "to": "Mallister" },
+    { "from": "@TalibanSoldiers", "to": "Brave Companions" },
+    { "from": "@FahimRomal", "to": "Mallister" },
+    { "from": "@FahimRomal", "to": "Mallister" },
+    { "from": "Mahdi Parsa", "to": "wahiz Mumand" },
+    { "from": "Mahdi Parsa", "to": "@@badri313_army" },
+    { "from": "Aminullah Ahmadi", "to": "Taher Ahmadi" },
+    { "from": "@badri313_army", "to": "Taher Ahmadi" },
+    { "from": "Taher Ahmadi", "to": "Tyrell" },
+    { "from": "Asfandov", "to": "Blackwood" },
+    { "from": "@badri313_army", "to": "Aminullah Ahmadi" },
+    { "from": "@badri313_army", "to": "@FahimRomal" }
   ]
 }
